@@ -1,0 +1,15 @@
+﻿KATA PENGANTAR
+
+Puji dan syukur ke hadirat Tuhan Yang Maha Esa, karena karunia, berkah dan rahmat-Nya penulis dapat menyelesaikan penyusunan proposal skripsi ini dengan judul “Sistem Pencatat Pelanggaran Lalu Lintas Otomatis”, sebagai salah satu syarat kelulusan Mata Kuliah Bahasa Indonesia di Jurusan Teknik Informatika Masukan Uni disini.
+	Penulis menyadari, dalam penyusunan proposal skripsi ini penulis banyak mengalami hambatan, namun demikian berkat dorongan dan bantuan, baik secara langsung maupun tidak, dari keluarga, teman-teman dan berbagai pihak, hambatan tersebut dapat diatasi oleh penulis. Dengan segala kerendahan dan ketulusan hati penulis ingin mengucapkan terima kasih kepada :
+1.	Masukan nama disini, selaku dosen pengajar.
+2.	Keluarga yang selalu mendukung dan mendampingi penulis selama ini
+
+Dalam penyusunan laporan ini, penulis menyadari ketidaksempurnaan penulis dalam penyusunan laporan ini, maka dari itu penulis mengharapkan segala kritik dan saran yang berarti agar dikemudian hari dapat menjadi lebih baik lagi.
+Besar harapan penulis agar proposal skripsi ini dapat bermanfaat bagi kemajuan semua pihak.
+
+
+Jakarta, 20 Juni 2018
+
+
+	      Masukan nama disini
